@@ -2,7 +2,7 @@
 <div class="header" id="firstFlex"> </div>
 
 ## Answer 2:
-html{font-size: 6rem }
+.big-text{font-size: 6rem }
 ## Answer 3:
 * number
 * string
